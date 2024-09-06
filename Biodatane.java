@@ -5,7 +5,7 @@ public class Biodatane {
         System.out.print("\nKelas  : SIB 1A");
         System.out.print("\nNim    : 244107060116");
         System.out.print("\nAsal   : Kediri");
-        System.out.print("\nAlamat : Tegalgondo");
+        System.out.print("\nAlamat : Tegalgondo selatan");
 
     }
 }
